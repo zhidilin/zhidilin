@@ -3,4 +3,4 @@
 
 - 📚 This is **Zhidi Lin**, an PhD student at the [School of Science and Engineering, CUHK-Shenzhen](https://sse.cuhk.edu.cn/en)
 
-- 💬 My current research interests include data-driven modeling (particularly the Bayesian learning and inference), distributed/federated learning
+- 🔬 My current research interests include data-driven modeling (particularly the Bayesian learning and inference), distributed/federated learning
