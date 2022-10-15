@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1>
-<h3 align="center">I'm Zhidi Lin</h3>
+<!-- <h3 align="center">I'm Zhidi Lin</h3> -->
 
-- 📚 I am an PhD student at the [School of Science and Engineering, CUHK-Shenzhen](https://sse.cuhk.edu.cn/en)
+- 📚 This is Zhidi Lin, an PhD student at the [School of Science and Engineering, CUHK-Shenzhen](https://sse.cuhk.edu.cn/en)
 
 <!-- - 🔬 I am also affiliated with the Bayesian Learning & Signal Processing (BL&SP) Group of [CUHK-Shenzhen](https://cuhk.edu.cn/en) and [Shenzhen Research Institute of Big Data (SRIBD)](http://www.sribd.cn) as research assistants -->
 
