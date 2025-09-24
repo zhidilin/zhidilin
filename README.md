@@ -5,7 +5,10 @@
 
 - 🔬 My research interests lie in data-driven modeling and uncertainty quantification, with a focus on:
 
-  -- Dynamical systems (Bayesian inference, data assimilation)
-  -- Generative models (Diffusion models, Gaussian processes, VAEs, etc)
-  -- High-dimensional statistical learning
-  -- Applications: Target tracking, fault detection, time-series forecasting, etc
+   - Dynamical systems (Bayesian inference, data assimilation)
+  
+   - Generative models (Diffusion models, Gaussian processes, VAEs, etc)
+  
+   - High-dimensional statistical learning
+  
+   - Applications: Target tracking, fault detection, time-series forecasting, etc
